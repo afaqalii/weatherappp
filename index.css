@@ -62,6 +62,10 @@ input.search-bar {
     width: 100%;
     max-width: calc(100% - 80px);
 }
+
+.description {
+    margin-left: 10px;
+}
 .weather.city {
     font-size: 9rem;
 }
